@@ -1,0 +1,42 @@
+*   [33mcommit 218f70e9ff32c9cceb75f46ce814146e317ecb88[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m[32m\[m  Merge: d32d71e 5ff2ea5
+[31m|[m [32m|[m Author: Everton Oliveira <everton542@hotmail.com>
+[31m|[m [32m|[m Date:   Sun Mar 27 17:33:29 2022 -0300
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge branch 'titulo'
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 5ff2ea5e657c10ec81d555f7559ce9e6f3a8b6e2[m[33m ([m[1;32mtitulo[m[33m)[m
+[31m|[m [32m|[m Author: Everton Oliveira <everton542@hotmail.com>
+[31m|[m [32m|[m Date:   Sun Mar 27 17:13:45 2022 -0300
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     mudança no titulo
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit d32d71e8b6ad7db94c20ea26a7b04990879a58b4[m
+[32m|[m[32m/[m  Author: Everton Oliveira <everton542@hotmail.com>
+[32m|[m   Date:   Sun Mar 27 17:29:33 2022 -0300
+[32m|[m   
+[32m|[m       Consertando bug
+[32m|[m 
+* [33mcommit 1bf94a00899d797801247c2dbba00c2515770b50[m[33m ([m[1;31morigin/main[m[33m, [m[1;31mlocal/master[m[33m, [m[1;32mmain[m[33m)[m
+[32m|[m Author: Everton Oliveira <everton542@hotmail.com>
+[32m|[m Date:   Fri Mar 25 15:54:56 2022 -0300
+[32m|[m 
+[32m|[m     Renomeando linha 12
+[32m|[m 
+* [33mcommit cc5f91f54c26e9034a608142a8030bc017e728ac[m
+[32m|[m Author: Everton Oliveira <everton542@hotmail.com>
+[32m|[m Date:   Thu Mar 24 20:48:54 2022 -0300
+[32m|[m 
+[32m|[m     Adcionando .gitignore
+[32m|[m 
+* [33mcommit 393734fe70752d81c48281883560c3919915e0cf[m
+[32m|[m Author: Everton Oliveira <everton542@hotmail.com>
+[32m|[m Date:   Thu Mar 24 20:30:32 2022 -0300
+[32m|[m 
+[32m|[m     C maiusculo na linha 12
+[32m|[m 
+* [33mcommit 815922405ad56c33b11044349aff97339a797f55[m
+  Author: Everton Oliveira <everton542@hotmail.com>
+  Date:   Thu Mar 24 20:24:07 2022 -0300
+  
+      Criando arquivo index.html com lista de cursos
